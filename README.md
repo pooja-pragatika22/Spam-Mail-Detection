@@ -13,7 +13,6 @@ A machine learning project that classifies emails as **spam** or **ham (not spam
 |---------------------------|---------------------------------------------|
 | `SPAM_MAIL_DETECTION_ML.ipynb` | Jupyter Notebook with complete code and explanations |
 | `mail_data.csv`                | Dataset containing labeled email messages  |
-| `requirements.txt`        | (Optional) List of Python libraries used   |
 
 ---
 
@@ -30,7 +29,6 @@ A machine learning project that classifies emails as **spam** or **ham (not spam
 - Pandas
 - Scikit-learn
 - Matplotlib / Seaborn (for visualization)
-- `re` module (for text cleaning)
 - `TfidfVectorizer` (from `sklearn.feature_extraction.text`)
 
 ---
